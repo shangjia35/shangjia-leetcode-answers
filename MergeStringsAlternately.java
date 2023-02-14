@@ -1,4 +1,6 @@
 /* LeetCode 1768 Merge Strings Alternately */
+/* Merge */
+
 class Solution {
     public String mergeAlternately(String word1, String word2) {
         int p1 = 0;
